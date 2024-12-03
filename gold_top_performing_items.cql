@@ -1,0 +1,1 @@
+select * from sneha.gold_top_performing_items;

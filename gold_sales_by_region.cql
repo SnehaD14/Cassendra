@@ -1,0 +1,1 @@
+select * from sneha.gold_sales_by_region;
